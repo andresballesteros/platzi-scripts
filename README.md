@@ -1,3 +1,3 @@
 # Platzi Scripts
 
-Dummy tests are in `jenkins-tests-ngrok`
+Dummy tests are in `jenkins-tests-ngrok`.
